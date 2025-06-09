@@ -1,8 +1,4 @@
-Sure! Here's a well-structured `README.md` file for your [social-media](https://github.com/magedo992/social-media.git) repository, assuming it's a Node.js-based backend for a social media app with typical features like authentication, posts, likes, comments, and follows.
 
----
-
-```markdown
 # Social Media Backend
 
 A Node.js backend server for a social media platform, built with **Express.js**, **MongoDB**, and **JWT** for authentication. This project provides a RESTful API that supports user authentication, posts, likes, comments, and user relationships (followers/following).
